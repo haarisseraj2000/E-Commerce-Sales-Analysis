@@ -10,3 +10,22 @@ This project focuses on generating key insights regarding Kmart's sales for each
 3. Best time to display advertising to maximize sales?
 4. Best-selling product & Why?
 5. What products are most often sold together?
+
+### Dataset 
+
+. Data belongs to Kmart: A leading online retailer in the US
+. Time Period :  January 2019  -  January 2020
+. Unique Products:  19
+. Total Orders :  178,437
+. Cities :  9
+. KPI’s : Total Sales, Total Products Sold
+
+#### Data Analysis Using Python
+1. Loaded data for each month and created a data frame using Pandas.
+2. For 2019 sales, an aggregated dataset was created by concatenating multiple datasets together.
+3. Data handling for null values and junk data.
+4. Preprocessed data to make a filtered dataset.
+5. Business problem analysis and their solutions. (visualizations using matplotlib and seaborn library)
+
+##### What was the best month for sales?
+. Plot the graph using matplotlib
