@@ -44,5 +44,7 @@ This project focuses on generating key insights regarding Kmart's sales for each
 1. Extract the Hours from the Order Date.
 2. Group the data by Hours and depict the graph using matplotlib.
 
+<img width="328" alt="1 2" src="https://github.com/haarisseraj2000/E-Commerce-Sales-Analysis/assets/83971005/321f279a-8469-406a-b119-5a1a457ecad1">
+
    
 
