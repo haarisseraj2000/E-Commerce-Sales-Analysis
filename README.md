@@ -33,8 +33,11 @@ This project focuses on generating key insights regarding Kmart's sales for each
 <img width="334" alt="192509661-634c5a5b-17a7-4307-974c-bfe12592ee48" src="https://github.com/haarisseraj2000/E-Commerce-Sales-Analysis/assets/83971005/71aefc3f-2e72-46dc-a2f8-158122a119e8">
 
 
-###### Which city had the highest number of sales?
+## Which city had the highest number of sales?
 1. Extract the “Purchase Address” column containing the city information into a separate dataframe.
 2. Group this dataframe by City and each group will have a sum of all the sales in that city.
 3. Visualize the graph using matplotlib
+
+<img width="343" alt="1 1" src="https://github.com/haarisseraj2000/E-Commerce-Sales-Analysis/assets/83971005/ace516ae-979b-4437-85e8-a7aa2a66571b">
+   
 
