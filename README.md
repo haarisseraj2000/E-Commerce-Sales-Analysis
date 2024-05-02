@@ -61,5 +61,20 @@ This project focuses on generating key insights regarding Kmart's sales for each
 
 <img width="349" alt="1 4" src="https://github.com/haarisseraj2000/E-Commerce-Sales-Analysis/assets/83971005/625a8d3a-4130-4a06-bbee-ff469c6aff45">
 
+
+# Tools Used
+Jupyter|Notebook|Python|Pandas|Matplotlib|Plotly
+
+Jupyter Notebook is used as IDE.
+Among the Python libraries, Pandas is used for handling and preprocessing data.
+Plotly, Seaborn, and Matplotlib are used for visualizing plots.
+For more details, please go through the Jupyter Notebook attached above.
+
+#Conclusion
+The analysis above clearly illustrates that month 12 (December) boasts the maximum sales in 2019 with roughly $9,226,886.
+According to the graph, San Francisco has the largest number of sales.
+The optimum time to display advertising to increase the probability of buyers purchasing the product/s is shortly before 12 pm and/or right before 7 pm.
+The top selling product is 'AAA Batteries (4-pack)'. The top selling products seem to have a correlation with the price of the product. The cheaper the product, higher the quantity ordered and vice versa.
+
    
 
