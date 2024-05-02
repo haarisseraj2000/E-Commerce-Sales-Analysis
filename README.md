@@ -30,7 +30,7 @@ This project focuses on generating key insights regarding Kmart's sales for each
 ##### What was the best month for sales?
 . Plot the graph using matplotlib
 
-<img width="334" alt="192509661-634c5a5b-17a7-4307-974c-bfe12592ee48" src="https://github.com/haarisseraj2000/E-Commerce-Sales-Analysis/assets/83971005/71aefc3f-2e72-46dc-a2f8-158122a119e8">
+
 
 
 ### Which city had the highest number of sales?
@@ -38,13 +38,13 @@ This project focuses on generating key insights regarding Kmart's sales for each
 2. Group this dataframe by City and each group will have a sum of all the sales in that city.
 3. Visualize the graph using matplotlib
 
-<img width="343" alt="1 1" src="https://github.com/haarisseraj2000/E-Commerce-Sales-Analysis/assets/83971005/ace516ae-979b-4437-85e8-a7aa2a66571b">
+
 
 ### Best time to display advertising to maximize sales?
 1. Extract the Hours from the Order Date.
 2. Group the data by Hours and depict the graph using matplotlib.
 
-<img width="328" alt="1 2" src="https://github.com/haarisseraj2000/E-Commerce-Sales-Analysis/assets/83971005/321f279a-8469-406a-b119-5a1a457ecad1">
+
 
 ### Best-selling product & Why?
 1. Determine the sum of the "Quantity Ordered" by grouping by "Product".
@@ -55,11 +55,10 @@ This project focuses on generating key insights regarding Kmart's sales for each
 
 
 
-<img width="355" alt="1 3" src="https://github.com/haarisseraj2000/E-Commerce-Sales-Analysis/assets/83971005/d8dc2bcb-50f7-4d0f-925c-a3ce1dec806b">
 
 .. Let us also see a graphic representation of the Prices for each product grouped by Product.
 
-<img width="349" alt="1 4" src="https://github.com/haarisseraj2000/E-Commerce-Sales-Analysis/assets/83971005/625a8d3a-4130-4a06-bbee-ff469c6aff45">
+
 
 
 # Tools Used
