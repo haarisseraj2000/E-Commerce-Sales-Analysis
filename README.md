@@ -70,7 +70,8 @@ Among the Python libraries, Pandas is used for handling and preprocessing data.
 Plotly, Seaborn, and Matplotlib are used for visualizing plots.
 For more details, please go through the Jupyter Notebook attached above.
 
-#Conclusion
+# Conclusion
+
 The analysis above clearly illustrates that month 12 (December) boasts the maximum sales in 2019 with roughly $9,226,886.
 According to the graph, San Francisco has the largest number of sales.
 The optimum time to display advertising to increase the probability of buyers purchasing the product/s is shortly before 12 pm and/or right before 7 pm.
