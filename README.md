@@ -46,5 +46,20 @@ This project focuses on generating key insights regarding Kmart's sales for each
 
 <img width="328" alt="1 2" src="https://github.com/haarisseraj2000/E-Commerce-Sales-Analysis/assets/83971005/321f279a-8469-406a-b119-5a1a457ecad1">
 
+### Best-selling product & Why?
+1. Determine the sum of the "Quantity Ordered" by grouping by "Product".
+2. Visual representation of the Quantity Ordered for each Product.
+
+
+
+
+
+
+<img width="355" alt="1 3" src="https://github.com/haarisseraj2000/E-Commerce-Sales-Analysis/assets/83971005/d8dc2bcb-50f7-4d0f-925c-a3ce1dec806b">
+
+.. Let us also see a graphic representation of the Prices for each product grouped by Product.
+
+<img width="349" alt="1 4" src="https://github.com/haarisseraj2000/E-Commerce-Sales-Analysis/assets/83971005/625a8d3a-4130-4a06-bbee-ff469c6aff45">
+
    
 
